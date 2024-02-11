@@ -1,6 +1,10 @@
 ### Hi there 👋
- -Working through CS50x
 
+I am currently working through CS50x to learn some new skills.
+
+Check out my website: Owxri.github.io
+
+ 
 <!--
 **Owxri/Owxri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
