@@ -2,7 +2,7 @@
 
 I am currently working through CS50x to learn some new skills.
 
-Check out my website: [Owxri.github.io](Owxri.github.io)
+Check out my website: Owxri.github.io
 
  
 <!--
